@@ -52,3 +52,24 @@ p {
 	font-weight: 700;
 	color:#3498db;
 }
+
+@media screen and (max-width: 600px) {
+  
+	.title {
+		font-size: 40px;
+	}
+
+	.intro-paragraph {
+	font-size: 18px;
+	}
+
+	p {
+	margin-bottom: 15px;
+	font-size: 14px;
+	}
+	
+	h2 {
+		font-size:25px;
+	}
+
+}
